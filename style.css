@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Maven+Pro';
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+}
+
+div {
+    width: 300px;
+    height: 30px;
+    color: red;
+}
